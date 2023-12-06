@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @onatucsd
-- 👀 I’m interested in data-driven predictive maintenance.
-- 🌱 I’m currently learning unsupervised transfer learning.
 - 📫 How to reach me ogungor@ucsd.edu
 
 <!---
